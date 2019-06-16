@@ -1,0 +1,15 @@
+{
+  "name": "currency-exchange",
+  "version": "1.0.0",
+  "description": "Technical task",
+  "main": "index.js",
+  "repository": "https://github.com/with-one-wing/currency-exchange",
+  "author": "Viktor Voitenko <viktor.voitenko@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "got": "^9.6.0"
+  }
+}
