@@ -1,3 +1,5 @@
-Just do:
-yarn #install dependencies
-yarn start #to launch the converter
+**Just do**
+
+**yarn install** #dependencies
+
+**yarn start** #to launch the converter
